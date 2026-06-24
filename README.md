@@ -1,6 +1,6 @@
 ## olá, eu sou o Valdemar 😁👍
 
-<img align="right" width="300" height="220"  alt="WebChartSustainabilityGIF" src="https://github.com/user-attachments/assets/5eb13970-6bd8-47be-9207-cb82715276cf" />
+<img align="right" width="300" height="220"  alt="AestheticCyberGIF" src="https://github.com/user-attachments/assets/654313ed-76f5-46d4-9fad-b24798b44b8b" />
 
 
 
