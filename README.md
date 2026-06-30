@@ -1,7 +1,7 @@
 ## olá, eu sou o Valdemar 😁👍
 
-<img align="right" width="300" height="220"  alt="AestheticCyberGIF" src="https://github.com/user-attachments/assets/654313ed-76f5-46d4-9fad-b24798b44b8b" />
 
+<img align="right" width = "420" height = "220" src="https://github-stats-extended.vercel.app/api?username=valder5780&show=reviews,issues_authored&show_icons=true&theme=gruvbox" />
 
 
 
@@ -24,8 +24,12 @@
  
 ---
 <div align = "left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valder5780&show_icons=true&theme=gruvbox_light" />
-<img src="https://github-readme-stats.vercel.app/api?username=valder5780&show_icons=true&theme=gruvbox" />
+
+
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=valder5780&stats_format=bytes&layout=donut&show_icons=true&theme=gruvbox_light&custom_title=⚡Linguagens_Mais_Usadas⚡" />
+  
+<img align="right" width="300" height="220"  alt="AestheticCyberGIF" src="https://github.com/user-attachments/assets/654313ed-76f5-46d4-9fad-b24798b44b8b" />
 
 
 
