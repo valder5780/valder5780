@@ -1,4 +1,4 @@
-## olá, eu sou o Valdemar 😁👍
+# olá, eu sou o Valdemar 😁👍
 
 
 <img align="right" width = "420" height = "220" src="https://github-stats-extended.vercel.app/api?username=valder5780&show=reviews,issues_authored&show_icons=true&theme=gruvbox" />
@@ -23,13 +23,17 @@
  <img align="center" alt="Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
  
 ---
-<div align = "left">
+
+<div align="left">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=valder5780&stats_format=bytes&layout=compact&theme=gruvbox_light&custom_title=⚡Linguagens_Mais_Usadas⚡" />
+</div>
+
+<div align="right">
 
 
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=valder5780&repo=Batalha&show=prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented&browser_rendering=true&theme=solarized-light" />
+</div>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=valder5780&stats_format=bytes&layout=donut&show_icons=true&theme=gruvbox_light&custom_title=⚡Linguagens_Mais_Usadas⚡" />
-  
-<img align="right" width="300" height="220"  alt="AestheticCyberGIF" src="https://github.com/user-attachments/assets/654313ed-76f5-46d4-9fad-b24798b44b8b" />
 
 
 
