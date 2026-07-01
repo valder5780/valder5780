@@ -1,8 +1,9 @@
 # olá, eu sou o Valdemar 😁👍
 
 
-<img align="right" width = "420" height = "220" src="https://github-stats-extended.vercel.app/api?username=valder5780&show=reviews,issues_authored&show_icons=true&theme=gruvbox" />
 
+
+<img align="right" width="250" height="200" alt="AestheticCyberGIF" src="https://github.com/user-attachments/assets/26ca0b74-bab6-4f67-8cd7-5622927a524c" />
 
 
 <div id="badges">
@@ -24,15 +25,23 @@
  
 ---
 
+  
+
+
 <div align="left">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=valder5780&stats_format=bytes&layout=compact&theme=gruvbox_light&custom_title=⚡Linguagens_Mais_Usadas⚡" />
+
+## Minhas estatisticas
+
+<img width="45%" valign="top" src="https://github-stats-extended.vercel.app/api?username=valder5780&show=reviews,issues_authored&show_icons=true&theme=gruvbox" />
+  
+<img width="35%" valign="top" src="https://github-stats-extended.vercel.app/api/top-langs/?username=valder5780&stats_format=bytes&layout=compact&theme=gruvbox_light&custom_title=⚡Linguagens_Mais_Usadas⚡" />
+ 
 </div>
 
-<div align="right">
+## Alguns Repositorios 
+<img align="left" width = "400" src="https://github-stats-extended.vercel.app/api/pin/?username=valder5780&repo=Batalha&show=prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented&browser_rendering=true&theme=solarized-light" />
 
 
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=valder5780&repo=Batalha&show=prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented&browser_rendering=true&theme=solarized-light" />
-</div>
 
 
 
