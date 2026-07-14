@@ -22,6 +22,9 @@
  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  <img align="center" alt="Godot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
  <img align="center" alt="Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
+ <img align="center" alt="VS Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
+ <img align="center" alt="Windowns" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"  title="WPF (Windows Presentation Foundation)"/>
+ <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="Linux"/>
  
 ---
 
@@ -39,8 +42,14 @@
 </div>
 
 ## Alguns Repositorios 
+<div>
 <img align="left" width = "400" src="https://github-stats-extended.vercel.app/api/pin/?username=valder5780&repo=Batalha&show=prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented&browser_rendering=true&theme=solarized-light" />
+</div>
 
+
+## Troféus
+
+<img src="https://github-profile-trophy-ahmed.vercel.app/?username=valder5780&theme=onestar&no-bg=true&no-frame=true&row=1&column=7&v=3" alt="GitHub Trophies" />
 
 
 
