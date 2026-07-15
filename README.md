@@ -41,13 +41,16 @@
  
 </div>
 
+<part>
+  
 ## Alguns Repositorios 
-<div>
+
 <img align="left" width = "400" src="https://github-stats-extended.vercel.app/api/pin/?username=valder5780&repo=Batalha&show=prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented&browser_rendering=true&theme=solarized-light" />
-</div>
+</part>
 
 
-## Troféus
+
+
 
 <img src="https://github-profile-trophy-ahmed.vercel.app/?username=valder5780&theme=onestar&no-bg=true&no-frame=true&row=1&column=7&v=3" alt="GitHub Trophies" />
 
