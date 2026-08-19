@@ -5,13 +5,14 @@
 
 <img align="right" width="250" height="200" alt="AestheticCyberGIF" src="https://github.com/user-attachments/assets/26ca0b74-bab6-4f67-8cd7-5622927a524c" />
 
-
+<div align="left">
+  
 <div id="badges">
 <a href = "https://www.linkedin.com/in/valdemar-tieppo-neto-203434361">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 <a/>
 
-<div>
+
   
 - 💻estou cursando Analise e Desenvolvimento de Sistemas (ADS)
   
