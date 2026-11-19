@@ -41,7 +41,7 @@
   
 <img width="35%" valign="top" src="https://github-stats-extended.vercel.app/api/top-langs/?username=valder5780&stats_format=bytes&layout=compact&theme=gruvbox_light&v=2&custom_title=⚡Linguagens_Mais_Usadas⚡" />
 
-<img src="https://github-profile-trophy-ahmed.vercel.app/?username=valder5780&theme=onestar&no-bg=true&no-frame=true&row=1&column=8&v=3" alt="GitHub Trophies" />
+<!-- <img src="https://github-profile-trophy-ahmed.vercel.app/?username=valder5780&theme=onestar&no-bg=true&no-frame=true&row=1&column=8&v=3" alt="GitHub Trophies" /> -->
  
 </div>
 
